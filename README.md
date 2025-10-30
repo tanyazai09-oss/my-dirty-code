@@ -1,6 +1,6 @@
 # my-dirty-code
 
-# 🧠 My Python Learning Map
+# My Python Learning Map
 
 > Here I document my Python learning journey—from beginner to expert.
 
@@ -8,25 +8,25 @@
 
 ---
 
-### 🌱 [1. Syntax Basics](01_syntax_basics/intro.md)
+### [1. Syntax Basics](01_syntax_basics/intro.md)
 The foundation of the language: variables, data types, operators, input/output.
 
-### 🧩 [2. Functions and Collections](02_functions_and_collections/functions.md)
+### [2. Functions and Collections](02_functions_and_collections/functions.md)
 Functions, lists, dictionaries, tuples, sets. Learning to write clean code.
 
-### 🧠 [3. Structural Thinking and Algorithms](03_structural_thinking/algorithms_intro.md)
+### [3. Structural Thinking and Algorithms](03_structural_thinking/algorithms_intro.md)
 How to think like a programmer, write logically, and solve problems.
 
-### 🏗️ [4. OOP and Architecture](04_oop_and_architecture/classes.md)
+### [4. OOP and Architecture](04_oop_and_architecture/classes.md)
 Classes, OOP principles, design.
 
-### ⚙️ [5. Advanced Python and Internals](05_advanced_python/)
+### [5. Advanced Python and Internals](05_advanced_python/)
 Deep understanding of the language: generators, iterators, decorators, memory.
 
-### 🚀 [6. Projects and Practice](06_projects/)
+### [6. Projects and Practice](06_projects/)
 Small practical mini-projects, design, documentation.
 
-### 🧩 [7. Expertise: Optimization, Design, Open Source](07_expert_level/)
+### [7. Expertise: Optimization, Design, Open Source](07_expert_level/)
 Studying architecture, code style, and open source participation.
 
 ---
