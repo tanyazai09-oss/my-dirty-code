@@ -1,48 +1,51 @@
 # Introduction to Python
 This section will help me understand the basic words and ideas.
 
-# 🐍 Введение в Python
+# Introduction to Python
 
-## 1. Что такое Python?
-**Python** — это высокоуровневый язык программирования.  
-Он читается почти как обычный английский, прост в изучении и подходит для самых разных задач — от анализа данных до искусственного интеллекта.
+## 1. What is Python?
+**Python** is a high-level programming language.
 
----
-
-## 2. Что такое код?
-**Код** — это набор инструкций, которые говорят компьютеру, что делать.  
-Ты — как режиссёр, а компьютер — исполнитель, который следует твоим командам.
+It reads almost like plain English, is easy to learn, and is suitable for a wide range of tasks—from data analysis to artificial intelligence.
 
 ---
 
-## 3. Что такое программа?
-**Программа** — это множество строк кода, объединённых в одно целое.  
-Если код — это слова и предложения, то программа — это рассказ.
+## 2. What is code?
+**Code** is a set of instructions that tell the computer what to do.
+
+You are like the director, and the computer is the executor that follows your commands.
 
 ---
 
-## 4. Интерпретатор и компилятор
-| Тип | Что делает | Примеры | Особенности |
-|------|-------------|----------|-------------|
-| **Интерпретатор** | Выполняет код построчно | Python, JavaScript | Гибкий, но медленнее |
-| **Компилятор** | Сначала переводит код в машинный язык, потом выполняет | C, C++ | Быстрее, но требует сборки |
+## 3. What is a program?
+**A program** is many lines of code combined into a single unit.
 
-> Python — **интерпретируемый язык**, поэтому ошибки видны сразу при запуске.
+If code is words and sentences, then a program is a story.
 
 ---
 
-## 5. Синтаксис
-Синтаксис — это правила, по которым пишется код.  
-Python известен тем, что читается “как английский”.
+## 4. Interpreter and Compiler
+| Type | What it does | Examples | Features |
+|------|-------------|-----------|-------------|
+| **Interpreter** | Executes code line by line | Python, JavaScript | Flexible, but slower |
+| **Compiler** | First translates the code into machine language, then executes it | C, C++ | Faster, but requires compilation |
 
-🔹 Конец строки = конец инструкции  
-🔹 Вложенные блоки создаются **отступами** (пробелами)  
-🔹 Язык **чувствителен к регистру** (`Name` ≠ `name`)
+> Python is an **interpreted language**, so errors are visible immediately upon startup.
 
 ---
 
-## 6. Дальше по плану:
-> 🔹 [Переменные и типы данных](../01_variables_and_types/README.md)  
-> 🔹 [Операции и выражения](../02_operations/README.md)  
-> 🔹 [Условия и циклы](../03_control_flow/README.md)  
-> 🔹 [Функции](../04_functions/README.md)
+## 5. Syntax
+Syntax is the rules by which code is written.
+Python is known for reading "like English."
+
+End of line = end of statement
+Nested blocks are created using **indentation** (spaces)
+The language is **case-sensitive** (`Name` ≠ `name`)
+
+---
+
+## 6. Next on the agenda:
+> [Variables and Data Types](../01_variables_and_types/README.md)
+> [Operations and Expressions](../02_operations/README.md)
+> [Conditions and Loops](../03_control_flow/README.md)
+> [Functions](../04_functions/README.md)
