@@ -7,8 +7,8 @@
 > Everything in my own words, with examples, errors, and conclusions.
 
 ---
-### [0.Intro To Python](00_without_confusion/introductions.md)
-To avoid wasting time looking for definitions of new words everything here.
+### [0.Intro To Python](00_without_confusion/README.md)
+To avoid wasting time looking for definitions of new words everything here: [0.Intro To Python](00_without_confusion/intoductions.md)
 
 ### [1. Syntax Basics](01_syntax_basics/intro.md)
 The foundation of the language: variables, data types, operators, input/output.
