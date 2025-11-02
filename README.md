@@ -7,6 +7,7 @@
 > Everything in my own words, with examples, errors, and conclusions.
 
 ---
+### [0.Intro To Python](00 introduction)
 
 ### [1. Syntax Basics](01_syntax_basics/intro.md)
 The foundation of the language: variables, data types, operators, input/output.
