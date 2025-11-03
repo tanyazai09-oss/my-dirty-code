@@ -34,8 +34,3 @@ End of line = end of statement
 Nested blocks are created using **indentation** (spaces)
 The language is **case-sensitive** (`Name` ≠ `name`)
 
-## 6. Next on the agenda:
-> [Variables and Data Types](../01_variables_and_types/README.md)
-> [Operations and Expressions](../02_operations/README.md)
-> [Conditions and Loops](../03_control_flow/README.md)
-> [Functions](../04_functions/README.md)
